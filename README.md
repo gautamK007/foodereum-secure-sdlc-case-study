@@ -111,13 +111,3 @@ Offensive Security
 
 ---
 
-## 🚀 Intended Roles
-
-This portfolio is aligned with opportunities in:
-
-- Application Security  
-- Product Security  
-- Offensive Security with secure design focus  
-- Web3 / Smart Contract security (entry level)
-
----
